@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "appmapa"
+    }
+  },
+  "defaultProject": "appmapa",
+  "cli": {
+    "analytics": false
+  }
 }
