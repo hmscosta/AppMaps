@@ -1,6 +1,21 @@
-#mapid { height: 800px; }
+#mapid {
+  height: 500px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  align-self: center;
+  align-content: center;
+  text-align: center;
+  background-color: white;
+}
+
 button{
   margin-top: 10px;
   margin-bottom: 20px;
   margin-left: 25px;
+}
+
+body{
+  background-color: rgb(208, 232, 245);
 }
